@@ -3,5 +3,6 @@
 int main(int argc,char** argv)
 {
 	printf("who am i");
+    printf("I am slave");
 	return 0;
 }
